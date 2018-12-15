@@ -1,0 +1,16 @@
+<%--
+ * author: VLAD
+--%>
+
+
+</main>
+<footer class="footer d-flex justify-content-between bg-dark text-white px-5 py-4">
+    <div><a class="text-white" href="<c:url value='#'/>"><fmt:message key="privacy"/></a> ::
+        <a class="text-white" href="<c:url value='#'/>"><fmt:message key="contact" /></a>
+    </div>
+    <div>
+        2018 &copy; Vladislav Valentyukevich
+    </div>
+</footer>
+</body>
+</html>

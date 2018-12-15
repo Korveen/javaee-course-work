@@ -1,0 +1,13 @@
+<%--
+
+ * author: VLAD
+--%>
+<div class="cover-container d-flex w-100 h-100 p-3 mx-auto flex-column">
+    <section class="inner cover mb-auto mt-auto">
+            <h1 class="cover-heading">403</h1>
+            <p class="lead"><fmt:message key="forbidden"/></p>
+            <p class="lead">
+              <a href="/AffableBean/index.jsp" class="btn btn-lg btn-secondary">Home page</a>
+            </p>
+    </section>
+</div>

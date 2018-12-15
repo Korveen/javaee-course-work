@@ -1,0 +1,12 @@
+<%--
+ * author: VLAD
+--%>
+<div class="cover-container d-flex w-100 h-100 p-3 mx-auto flex-column text-center">
+        <section class="inner cover mb-auto mt-auto">
+                <h1 class="cover-heading">404 :(</h1>
+                <p class="lead"><fmt:message key="notFound"/></p>
+                <p class="lead">
+                  <a href="/AffableBean/index.jsp" class="btn btn-lg btn-secondary">Home page</a>
+                </p>
+        </section>
+</div>
